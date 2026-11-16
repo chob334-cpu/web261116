@@ -176,6 +176,18 @@ h1, h2, h3 {
     }
 
     .board {
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(6, 1fr);
     }
+}
+
+.card.hot .badge {
+    background: crimson;
+    color: #fff;
+}
+
+.toolbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: #fff;
 }

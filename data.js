@@ -33,5 +33,12 @@ const movies = [
         date: "2026-10-21",
         rating: 7.9,
         poster: "/LSGpoSAlitss0KOvVakkeUToZo.jpg"
+    },
+    {
+        title: "암살자(들)",
+        year: 2026,
+        date: "2026-10-21",
+        rating: 7.2,
+        poster: "/c55ijsOdntj6P25vDwHLdgsBpmV.jpg"
     }
 ];
